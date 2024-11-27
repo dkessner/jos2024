@@ -128,7 +128,7 @@ Observations:
 
 - The cone is tangent to the sphere at the points of contact
 
-- Two spheres determine a unique plane that is tangent to both
+- Two spheres determine the angle of the plane that is tangent to both
 
 - Two tangent theorem:
 
